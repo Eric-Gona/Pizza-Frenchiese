@@ -1,4 +1,4 @@
-# Pizza-Deliciosa
+# Pizza Frenchiese
 ## Author
 Eric Karisa
 

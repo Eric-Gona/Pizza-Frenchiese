@@ -8,15 +8,13 @@ This is a web application for Pizza Frenchiese that shows details about differen
 ## Live Page
 https://eric-gona.github.io/Pizza-Frenchiese/
 
-## Installation / Setup instruction
-Open Terminal {Ctrl+Alt+T}
-
-git clone https://github.com/Owiti-Charles/Pizza-Deliciosa.git
-
-cd Pizza-Deliciosa
-
-code . or atom . depending on the text editor of your choise.
-
+## Setup/Installation Requirements
++ Get the VS.CODE APPLICATION
++ Download chrome or any browser preferably chrome
++ Download the file.
+- Open the file using VS.CODE APPLICATION
+- There are html file and css file
+- Run the code on VS.CODE APPLICATION
 ## Technologies Used
 + HTML
 + CSS

@@ -1,9 +1,11 @@
 
+.order{
+    background-color: beige;
+}
+
 .contact{
    background-color: aqua;
 }
-
-
 
 h2{
     text-align: center;
